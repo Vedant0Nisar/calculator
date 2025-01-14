@@ -2,11 +2,11 @@
 
 A simple calculator app built with Flutter, utilizing the GetX state management package for efficient state handling. It supports basic mathematical operations such as addition, subtraction, multiplication, division, and more. The app uses the `math_expressions` package to evaluate mathematical expressions entered by the user.
 <div style="display: flex; align-items: center;">
-  <img src="preview_images/calculator_ui.png" alt="Calculator UI Preview" style="width: 100px; height: 100px; margin-right: 10px;">
+  <img src="preview_images/calculator_ui.png" alt="Calculator UI Preview"width="200" >
 </div>
 
 
-![Calculator UI Preview](preview_images/calculator_ui.png)
+<!-- ![Calculator UI Preview](preview_images/calculator_ui.png) -->
 
 ## Features
 
